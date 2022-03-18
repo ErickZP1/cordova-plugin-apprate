@@ -12,6 +12,7 @@ A plugin to provide rate this app functionality into your cordova application
 - Android
 - Windows
 - Blackberry
+- Huawei without playstore
 
 ## Installation Prerequisites
 
